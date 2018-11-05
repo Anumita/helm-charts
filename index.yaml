@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  azure-vote:
+  - apiVersion: v1
+    created: 2018-11-05T13:22:01.7341497+05:30
+    description: A Helm chart for Kubernetes
+    digest: a8befcb34c430687b780a9d1f47d87f9c3dcf52688b88a5abfd5cacca3b5d3fc
+    name: azure-vote
+    urls:
+    - https://anumita.github.io/helm-charts/azure-vote-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-05T13:22:01.7331513+05:30

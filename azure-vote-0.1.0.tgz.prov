@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v1
+description: A Helm chart for Kubernetes
+name: azure-vote
+version: 0.1.0
+
+...
+files:
+  azure-vote-0.1.0.tgz: sha256:a8befcb34c430687b780a9d1f47d87f9c3dcf52688b88a5abfd5cacca3b5d3fc
+-----BEGIN PGP SIGNATURE-----
+
+wsBcBAEBCgAQBQJb3/acCRBVdKhsP0K6BwAAudsIAAxGxVyFjPmCcjqq6LB4d712
+zHWlusX6PTS0C+K7i8sIG6yez9yf85IjpDynjUFzHcRMIcemQoCnAbrSd8J1hetB
+nNVG/k72X1pHH4xkETiERYAoJR1MhDXGzWtLVso8ZrM/NiyesXm9J0VwH2czqM4C
+CIq63I2xgZJaMM2H/6d0KUCTXqr3mGHpJW0i5lB20aZ/OOWw20MDRR9FufC7gTt/
+lgECvughcxwANx4Nk1XLfREBKDO7K/ggvZCEzp+z0SKZXvwnIEfSCnOsWIsCpwPg
+3GxAxEkXyoPUW9w/adPTllWMtElYaVRK3ZKNiMkyz+4RMsOyDAs4woFIRKFpsEQ=
+=5Tw2
+-----END PGP SIGNATURE-----
